@@ -7,12 +7,12 @@
     "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css"
     rel="stylesheet">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Discord Webhook Sender</title>
-    <style>
-    .btn-full-width {
-    width: 100%;
-    }
-    </style>
+    //<title>Discord Webhook Sender</title>
+    //<style>
+    //.btn-full-width {
+    //width: 100%;
+    //}
+    //</style>
 </head>
 <body>
     <main class="container">
